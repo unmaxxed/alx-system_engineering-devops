@@ -1,2 +1,2 @@
 ALXSE Devops
-Shell Permissions
+Shell Redirections
