@@ -1,2 +1,2 @@
 #!/bin/bash
-sed -n 3p lacta
+head -n 3 lacta | tail -n 1
